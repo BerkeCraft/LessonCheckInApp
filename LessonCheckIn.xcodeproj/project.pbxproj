@@ -11,6 +11,7 @@
 		0FCF4CB52CE363ED006D5269 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCF4CB42CE363ED006D5269 /* ContentView.swift */; };
 		0FCF4CB72CE363ED006D5269 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0FCF4CB62CE363ED006D5269 /* Assets.xcassets */; };
 		0FCF4CBA2CE363ED006D5269 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0FCF4CB92CE363ED006D5269 /* Preview Assets.xcassets */; };
+		0FCF4CC12CE3640A006D5269 /* LessonData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCF4CC02CE3640A006D5269 /* LessonData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		0FCF4CB42CE363ED006D5269 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0FCF4CB62CE363ED006D5269 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0FCF4CB92CE363ED006D5269 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0FCF4CC02CE3640A006D5269 /* LessonData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				0FCF4CB22CE363ED006D5269 /* LessonCheckInApp.swift */,
 				0FCF4CB42CE363ED006D5269 /* ContentView.swift */,
+				0FCF4CC02CE3640A006D5269 /* LessonData.swift */,
 				0FCF4CB62CE363ED006D5269 /* Assets.xcassets */,
 				0FCF4CB82CE363ED006D5269 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0FCF4CB52CE363ED006D5269 /* ContentView.swift in Sources */,
+				0FCF4CC12CE3640A006D5269 /* LessonData.swift in Sources */,
 				0FCF4CB32CE363ED006D5269 /* LessonCheckInApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -272,6 +276,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"LessonCheckIn/Preview Content\"";
+				DEVELOPMENT_TEAM = 4X24342N3A;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -300,6 +305,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"LessonCheckIn/Preview Content\"";
+				DEVELOPMENT_TEAM = 4X24342N3A;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
